@@ -8,7 +8,6 @@ no celular, monta o pedido sozinho e ele chega **pronto no WhatsApp da casa**: i
 observações, endereço, forma de pagamento, troco e total calculado. Sem aplicativo para
 baixar, sem cadastro e sem comissão por pedido.
 
-Já está em uso por um cliente real. As telas abaixo usam uma loja fictícia, a
 "Pizzaria Bella Massa", com cardápio e dados de demonstração.
 
 ![React](https://img.shields.io/badge/React_18-20232A?logo=react&logoColor=61DAFB)
