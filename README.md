@@ -45,24 +45,6 @@ baixar, sem cadastro e sem comissão por pedido.
 
 ---
 
-## Apresentação de vendas
-
-O material que eu uso para vender o serviço: 9 slides em uma única página HTML, sem
-build nem dependências. Funciona ao vivo em tela cheia, no celular do cliente com swipe
-e como PDF pelo `Ctrl+P`, com um slide por página.
-
-<p align="center">
-  <img src="imagens/09-apresentacao-capa.png" width="900">
-</p>
-<table>
-  <tr>
-    <td align="center"><img src="imagens/10-apresentacao-como-funciona.png" width="440"><br><sub>Como funciona, em três passos</sub></td>
-    <td align="center"><img src="imagens/11-apresentacao-comparativo.png" width="440"><br><sub>Comparativo com os apps de delivery</sub></td>
-  </tr>
-</table>
-
----
-
 ## Extensão: convite de casamento digital
 
 A mesma ideia aplicada a eventos. O convidado abre o convite pelo link, confirma
@@ -71,8 +53,8 @@ via Pix. Tem contagem regressiva, programação do dia e animação de abertura.
 
 <table>
   <tr>
-    <td align="center"><img src="imagens/12-convite-capa.png" width="260"><br><sub>Capa com contagem regressiva</sub></td>
-    <td align="center"><img src="imagens/13-convite-presente-pix.png" width="260"><br><sub>Lista de presentes com Pix copia e cola</sub></td>
+    <td align="center"><img src="imagens/09-convite-capa.png" width="260"><br><sub>Capa com contagem regressiva</sub></td>
+    <td align="center"><img src="imagens/10-convite-presente-pix.png" width="260"><br><sub>Lista de presentes com Pix copia e cola</sub></td>
   </tr>
 </table>
 
@@ -101,7 +83,7 @@ via Pix. Tem contagem regressiva, programação do dia e animação de abertura.
 | Parte | Tecnologias |
 | --- | --- |
 | **Cardápio** | React 18, Vite 5, Framer Motion, CSS próprio |
-| **Apresentação e convite** | HTML, CSS e JavaScript puros, sem dependências |
+| **Convite** | HTML, CSS e JavaScript puros, sem dependências |
 | **Hospedagem** | Cloudflare Pages com deploy a cada push |
 
 ---
