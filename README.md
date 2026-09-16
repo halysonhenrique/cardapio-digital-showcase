@@ -91,4 +91,4 @@ via Pix. Tem contagem regressiva, programação do dia e animação de abertura.
 ## Contato
 
 Desenvolvido por **Halyson Henrique**. Quer ver o código ou uma demonstração?
-Entre em contato pelo [LinkedIn](https://www.linkedin.com/) ou pelo [GitHub](https://github.com/halysonhenrique).
+Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/halysonhenrique/) ou pelo [GitHub](https://github.com/halysonhenrique).
